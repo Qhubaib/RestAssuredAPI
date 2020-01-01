@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "munna-server",
+      "author": "munna"
+    },
+    {
+      "id": 3,
+      "title": "munna-server",
+      "author": "munna"
+    },
+    {
+      "id": 4,
+      "title": "qhubaib-server",
+      "author": "qhubaib"
+    },
+    {
+      "id": 5,
+      "title": "qhubaib-server",
+      "author": "qhubaib"
+    },
+    {
+      "author": "Syed Ahmed",
+      "id": "78",
+      "title": "this is put operation means updating"
+    },
+    {
+      "author": "Syed Qhubaib Ahmed",
+      "id": "786",
+      "title": "my first program of post operation"
+    },
+    {
+      "author": "Syed Qhubaib Ahmed",
+      "id": "787",
+      "title": "my first program of post operation"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    [
+      {
+        "id": 11,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 12,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 13,
+        "body": "some comment",
+        "postId": 1
+      }
+    ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
